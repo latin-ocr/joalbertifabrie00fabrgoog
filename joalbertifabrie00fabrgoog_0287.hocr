@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./joalbertifabrie00fabrgoog_0287.png"; bbox 0 0 1367 1804; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 258 294 1048 1064">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 258 294 1048 1064">
+     <span class='ocr_line' id='line_1_1' title="bbox 258 294 1048 1064; baseline 0 -55"><span class='ocrx_word' id='word_1_1' title='bbox 258 294 1048 1064; x_wconf 95' lang='lat' dir='ltr'><strong>    </strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 692 933 1048 975; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 652 969 764 1015">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 652 969 764 1015">
+     <span class='ocr_line' id='line_1_2' title="bbox 652 969 764 1015; baseline 0.009 -8"><span class='ocrx_word' id='word_1_3' title='bbox 652 969 700 1015; x_wconf 51' lang='lat'><strong>¹⁹3)</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 707 988 728 1007; x_wconf 88' lang='lat' dir='ltr'><strong>c.</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 734 988 764 1009; x_wconf 74' lang='lat'><strong>74-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 731 1016 913 1065">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 731 1016 913 1065">
+     <span class='ocr_line' id='line_1_3' title="bbox 731 1016 913 1065; baseline -0.011 -23"><span class='ocrx_word' id='word_1_6' title='bbox 731 1036 807 1065; x_wconf 54' lang='lat' dir='ltr'>qu-uon</span> <span class='ocrx_word' id='word_1_7' title='bbox 810 1020 897 1054; x_wconf 64' lang='lat' dir='ltr'><strong>,guoffit&#39;</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 908 1016 913 1019; x_wconf 71' lang='grc'><strong>”</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
